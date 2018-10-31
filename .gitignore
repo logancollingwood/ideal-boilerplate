@@ -77,6 +77,6 @@ typings/
 
 .idea/
 
-.build/
+build/
 
-.dist/
+dist/
